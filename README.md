@@ -1,10 +1,10 @@
-
+@@ -21,8 +21,7 @@
    Giới thiệu nhóm
 </h2>
 
-- **Số thứ tự nhóm:** 13
-- **Tên nhóm:** 
-- **Số thứ tự nhóm:** 13
+- **Số thứ tự nhóm:** 4
+- **Tên nhóm:** Bacon
+- **Số thứ tự nhóm:** 6
 - **Thông tin thành viên** 
 
 <table align="center">
@@ -12,24 +12,34 @@
        <th>Email</th>
       </tr>
       <tr>
-       <td>Phạm Trần Anh Tiên</td>
+       <td>Nguyễn Minh Thuận</td>
        <td>20520795</td>
-       <td>https://github.com/ptatien0307</td>
+       <td> https://github.com/ThuanE3691</td>
        <td>20520795@gm.uit.edu.vn</td>  
-       <td>Phạm Trần Anh Tiên</td>
-       <td>20522012</td>
-       <td>https://github.com/ptatien0307</td>
-       <td>20522012@gm.uit.edu.vn</td>  
+       <td>Nguyễn Trần Thái Duy</td>
+       <td>18520668</td>
+       <td>https://github.com/thaiduy1704</td>
+       <td>18520668@gm.uit.edu.vn</td>  
       </tr>
       <tr>
-       <td>Phạm Trần Anh TIên</td>
-       <td>20522012</td>
-       <td>https://github.com/ptatien0307</td>
-       <td>20522012@gm.uit.edu.vn</td>  
-       <td>Phạm Trần Anh Tiên </td>
-       <td>20522012</td>
-       <td>https://github.com/ptatien0307</td>
-       <td>20522012@gm.uit.edu.vn</td>  
+       <td>Bùi Quang Phú</td>
+       <td>20520273</td>
+       <td> https://github.com/PhuBuii</td>
+       <td>20520273@gm.uit.edu.vn</td>  
+       <td>Mai Viết Dũng </td>
+       <td>18520634</td>
+       <td></td>
+       <td>18520634@gm.uit.edu.vn</td>  
+      </tr>
+      <tr>
+       <td>Nguyễn Thị Ngọc Nga</td>
+       <td>20521641</td>
+       <td>https://github.com/iamFishie</td>
+       <td>20521641@gm.uit.edu.vn</td>  
+       <td>Vũ Văn Minh</td>
+       <td>20521621</td>
+       <td></td>
+       <td>20521621@gm.uit.edu.vn</td>  
       </tr>
 </table>
 

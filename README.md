@@ -31,16 +31,6 @@
        <td>https://github.com/ptatien0307</td>
        <td>20522012@gm.uit.edu.vn</td>  
       </tr>
-      <tr>
-       <td>Phạm Trần Anh Tiên</td>
-       <td>20522012</td>
-       <td>https://github.com/ptatien0307</td>
-       <td>205222012@gm.uit.edu.vn</td>  
-       <td>Phạm Trần Anh TIên</td>
-       <td>20522012</td>
-       <td></td>
-       <td>20522012@gm.uit.edu.vn</td>  
-      </tr>
 </table>
 
 

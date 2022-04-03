@@ -13,5 +13,5 @@
 | STT    | MSSV          | Họ và Tên              | Github                                               | Email                   |
 | ------ |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
 | 1      | 20522012      | Phạm Trần Anh Tiên     |https://github.com/ptatien0307                        |20522012@gm.uit.edu.vn   |
-| 2      | 20520960      | Lương Lý Công Thịnh    |https://github.com/llcthinh2103                       |20521960@gm.uit.edu.vn   |
+| 2      | 20521960      | Lương Lý Công Thịnh    |https://github.com/llcthinh2103                       |20521960@gm.uit.edu.vn   |
 | 3      | 20521938      | Trần Phương Thảo       |https://github.com/tpt149                             |20521938@gm.uit.edu.vn   |

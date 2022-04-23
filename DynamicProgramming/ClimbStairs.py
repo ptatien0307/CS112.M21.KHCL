@@ -1,7 +1,7 @@
 
 
 # BOTTOM - UP
-def climbStairs(n)
+def climbStairs(n):
     if n == 0:
         return 0
     elif n == 1:

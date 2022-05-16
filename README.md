@@ -6,9 +6,20 @@
 
 <!-- Title -->
 <h1 align="center"><b>CS112 - PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN</b></h1>
-<h2 align="center"><b>ĐỀ TÀI: DYNAMIC PROGRAMMING - QUY HOẠCH ĐỘNG</b></h2>
 
-## THÀNH VIÊN NHÓM
+# GIỚI THIỆU MÔN HỌC
+* **Tên môn học:** Phân tích và thiết kế thuật toán
+* **Mã môn học:** CS112
+* **Mã lớp:** CS112.M21.KHCL
+* **Năm học:** HK2 (2021 - 2022)
+* **Giảng viên:** Nguyễn Thanh Sơn
+
+
+# THÔNG TIN NHÓM
+* **Nhóm 13**
+* **Thành viên**
+* **Chủ đề:** DYNAMIC PROGRAMMING - QUY HOẠCH ĐỘNG
+
 <a name="thanhvien"></a>
 | STT    | MSSV          | Họ và Tên              | Github                                               | Email                   |
 | ------ |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
